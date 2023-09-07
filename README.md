@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Luca!</h1>
 <h3 align="center">A passionate backend developer from Uruguay</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lmirenda&label=Profile%20views&color=0e75b6&style=flat" alt="lmirenda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lmirenda&label=Profile%20views&color=0e75b6&style=flat" alt="lmirenda" /></p>
 
 - 🔭 I’m currently working at **Light-it**
 
