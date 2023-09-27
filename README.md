@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lmirenda&label=Profile%20views&color=0e75b6&style=flat" alt="lmirenda" /></p>
 
-- 🔭 I’m currently working at **Light-it**
+- 🔭 I’m currently working at **Howdy**
 
 - 🌱 I’m currently learning **Golang**
 
